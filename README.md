@@ -1,7 +1,7 @@
-Nitte Chat Room
-Welcome to the Nitte Chat Room GitHub repository! This interactive README will guide you through setting up and using our chat room application.
+**Nitte Chat Room**
+*Welcome to the Nitte Chat Room GitHub repository! This interactive README will guide you through setting up and using our chat room application.*
 
-Features
+#Features
 Create and join rooms
 Authentication using Google API for Nitte students (@nmamit.in domain)
 Prevents SQL injection
@@ -9,7 +9,7 @@ Built with PHP, HTML, CSS, Bootstrap, and JavaScript
 Getting Started
 Follow these steps to set up and run the Nitte Chat Room application locally on your machine:
 
-Prerequisites
+#Prerequisites
 PHP installed on your machine
 Web server (e.g., Apache) installed and configured
 Installation
@@ -54,8 +54,8 @@ JavaScript
 Contributing
 We welcome contributions from the community to improve the Nitte Chat Room application. Feel free to fork this repository, make your changes, and submit a pull request.
 
-License
-This project is licensed under the MIT License.
+
+
 
 Feel free to reach out if you have any questions or encounter any issues while setting up or using the Nitte Chat Room application. Happy chatting! 🎉
 
