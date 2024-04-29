@@ -28,8 +28,8 @@ if ($result) {
         $msg = "Room exists.Preparing to join room...";
         echo '<script language="javascript">';
         echo 'alert(" '.$msg.' ");';
-       // echo 'window.location="https://localhost/NCR/rooms.php?roomname='.$room.'"';
-        echo 'window.location="https://172.20.10.3/NCR/rooms.php?roomname='.$room.'"';
+        echo 'window.location="https://localhost/NCR/rooms.php?roomname='.$room.'"';
+       // echo 'window.location="https://172.20.10.3/NCR/rooms.php?roomname='.$room.'"';
         echo '</script>';
         exit;
     } else {
@@ -40,8 +40,8 @@ if ($result) {
             $msg = "Room created and ready for use.";
             echo '<script language="javascript">';
             echo 'alert(" '.$msg.' ");';
-           // echo 'window.location="https://localhost/NCR/rooms.php?roomname='.$room.'"';
-            echo 'window.location="https://172.20.10.3/NCR/rooms.php?roomname='.$room.'"';
+           echo 'window.location="https://localhost/NCR/rooms.php?roomname='.$room.'"';
+           // echo 'window.location="https://172.20.10.3/NCR/rooms.php?roomname='.$room.'"';
             echo '</script>';
             exit;
         } else {
